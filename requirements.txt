@@ -1,0 +1,10 @@
+flask
+flask-cors
+tensorflow
+librosa
+numpy
+pickle5
+SpeechRecognition
+pydub
+google-genai
+python-dotenv
