@@ -9,7 +9,7 @@ This project is a Flask-based web application that analyzes audio files to predi
 - **Mental Health Response**: Generates a mental health response based on the user's emotion and query using the Gemini API.
 
 ### Setbacks
-- **Length of Audio Files**: Do no give audio files smaller than 2.5s as we have considered minimum length to be of 2.5s and 2736 feat.
+- **Length of Audio Files**: Do not give audio files smaller than 2.5s as we have considered minimum length to be of 2.5s and 2736 feat.
 
 ## Setup
 
